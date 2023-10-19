@@ -1,0 +1,2 @@
+export const mongoDBURL = 'mongodb://balagurusiva2000:bala123@ac-bgeiz7s-shard-00-00.gyvo7ag.mongodb.net:27017,ac-bgeiz7s-shard-00-01.gyvo7ag.mongodb.net:27017,ac-bgeiz7s-shard-00-02.gyvo7ag.mongodb.net:27017/book?ssl=true&replicaSet=atlas-zmoeuy-shard-0&authSource=admin&retryWrites=true&w=majority'
+ 
